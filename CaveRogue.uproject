@@ -18,6 +18,10 @@
 		{
 			"Name": "AbilitySystemGameFeatureActions",
 			"Enabled": true
+		},
+		{
+			"Name": "TextureGraph",
+			"Enabled": true
 		}
 	]
 }
